@@ -1,5 +1,5 @@
 import json
-from turtle import heading
+#from turtle import heading
 from urllib import response
 import webbrowser
 
