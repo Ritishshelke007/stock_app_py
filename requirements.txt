@@ -1,4 +1,4 @@
-tkinter==0.1.0
+tk==0.1.0
 cmdstanpy==0.9.68
 colorama==0.4.5
 convertdate==2.4.0
